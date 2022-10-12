@@ -4,7 +4,7 @@ Easy profile makes it easy for you to have a personal website by explaining your
 
 To modify profile details, you can edit `config.js` file on `/src/Data/config.js`.
 
-This project created with 
+This project created with
 + [Vite](https://github.com/vitejs/vite)
 + [React JS](https://github.com/facebook/react/)
 + [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
